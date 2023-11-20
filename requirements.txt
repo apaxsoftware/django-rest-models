@@ -6,7 +6,7 @@ isort
 flake8
 requests
 djangorestframework
-dynamic-rest<
+dynamic-rest
 -r test_requirements.txt
 twine
 psycopg2-binary
